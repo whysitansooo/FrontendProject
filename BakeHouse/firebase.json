@@ -1,9 +1,0 @@
-{
-  "hosting": [
-    {
-      "target": "ice-cream",
-      "source": ".",
-      "frameworksBackend": {}
-    }
-  ]
-}
